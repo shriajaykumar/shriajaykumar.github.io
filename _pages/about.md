@@ -27,4 +27,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am Shri Ajay Kumar Ravindhiran. I am pursuing Master of Science in Computer Science at Arizona State University.
+I am Shri Ajay Kumar Ravindhiran. I am pursuing MS in Computer Science at Arizona State University.
